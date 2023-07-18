@@ -1,0 +1,13 @@
+.recipe-card {
+    flex: 1 1 auto;
+    margin: 5px 7px;
+    height: 250px;
+    max-width: 345px;
+}
+
+.recipe-description {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 8;
+    overflow: hidden;
+}
